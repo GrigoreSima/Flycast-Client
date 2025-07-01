@@ -1,1 +1,1 @@
-export const SERVER_URL = "http://localhost:8080";
+export const SERVER_URL = "flycast-server-ddgkcndffsb2f7gs.northeurope-01.azurewebsites.net";
